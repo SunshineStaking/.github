@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo_sunshine.png" alt="Sunshine Staking" width="520">
+  <img src="../images/logo_sunshine.png" alt="Sunshine Staking" width="520">
 </p>
 
 <h1 align="center">Sunshine Staking</h1>
